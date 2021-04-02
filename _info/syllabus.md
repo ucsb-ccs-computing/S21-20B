@@ -10,7 +10,8 @@ ready: false
 * **Lecture**: Monday/Wednesday 10am - 11:50am
                                          
 * Office Hours:
-   * By appointment
+   * Richert Wang: Monday 9 - 10am, Wednesday 12 - 1pm
+   * Kylie Huch: Monday 5 - 6pm
 
 For course website links, visit <https://ucsb-ccs-computing.github.io/S21-20B>.
 
